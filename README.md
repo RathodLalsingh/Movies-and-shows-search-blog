@@ -23,10 +23,15 @@ Used slices to organize the state and asynchronous createAsyncThunk to fetch dat
 
 ## Tech Stack
 React: For UI components and state handling.
+
 Redux Toolkit: To manage app-wide state and async API calls.
+
 TVMaze API: To fetch TV show data.
+
 Axios: For making API requests.
+
 Vite: Build tool for fast development and optimized builds.
+
 CSS or Tailwind CSS: For styling the ap
 
 ## Thilling And suspence

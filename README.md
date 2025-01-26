@@ -3,9 +3,13 @@
 
 # Steps to Build the App
 npm create vite@latest tv-show-search --template react
+
 cd tv-show-search
+
 npm install
+
 npm install @reduxjs/toolkit react-redux
+
 npm run dev to run project
 
 ## Overview

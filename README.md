@@ -1,7 +1,7 @@
 [Link](https://rad-kitsune-03b39a.netlify.app/)
 # Movies-and-shows-search-blog
 
-## Steps to Build the App
+# Steps to Build the App
 npm create vite@latest tv-show-search --template react
 cd tv-show-search
 npm install
@@ -13,11 +13,11 @@ Developed an interactive web application to allow users to search and explore TV
 Implemented dynamic search functionality, enabling users to filter results based on show titles.
 Integrated a detailed view of TV shows, including information such as summary, genre, schedule, and cast
 
-##state management RTK
+## state management RTK
 Efficiently managed application state for search results and show details.
 Used slices to organize the state and asynchronous createAsyncThunk to fetch data from the AP
 
-##Tech Stack
+## Tech Stack
 React: For UI components and state handling.
 Redux Toolkit: To manage app-wide state and async API calls.
 TVMaze API: To fetch TV show data.
